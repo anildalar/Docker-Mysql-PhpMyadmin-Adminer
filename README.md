@@ -1,7 +1,7 @@
 # Docker-Mysql-PhpMyadmin-Adminer
 Docker Mysql PhpMyadmin Adminer
 
-
+<pre>
 version: '3.1'
 
 services:
@@ -29,7 +29,7 @@ services:
       PMA_PORT: 3306
       PMA_ARBITRARY: 1
 
-
+</pre>
 
 
 Server: db
